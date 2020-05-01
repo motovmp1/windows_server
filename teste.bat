@@ -4,4 +4,3 @@ ECHO Inside the timer
 SLEEP 10
 ECHO Outside the timer
 ECHO TESTE DE MEDIDA
-ECHO teste de novo 2
